@@ -32,8 +32,9 @@ Write a class named Fraction that represents a fraction of two integers. Overloa
 מערכת הבדיקה האוטומטית מעתיקה מחדש את כל הקבצים הקיימים על-גבי הפתרון שאתם מגישים,
 ולכן כל שינוי שתעשו בקבצים הקיימים יימחק.
 
-/home/codebind/Pictures/Screenshots/Screenshot from 2023-05-01 15-24-39.png
+![Screenshot from 2023-05-01 15-24-39](https://user-images.githubusercontent.com/92846018/235452612-5279b448-fceb-4612-9fa7-bdb31379328b.png)
 
+    
 
 בהצלחה
 </div>
